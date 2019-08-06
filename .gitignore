@@ -1,0 +1,15 @@
+/sandbox/**
+/.idea/**
+/*.iml
+/.git/**
+/jars/**
+/bundle/**
+/.gradle/**
+/vendor/**
+/build/**
+/examples/vendor/**
+/package.hub.yml
+/package-lock.php.yml
+/gradle
+/dn-sources/**
+/out/**

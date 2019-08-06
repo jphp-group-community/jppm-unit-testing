@@ -1,0 +1,24 @@
+name: unit-testing
+version: 1.0.0
+type: plugin
+
+plugin:
+  list:
+  - unit\UnitTesting
+  sources:
+  - 'plugin-src'
+sources:
+  - 'src'
+deps:
+  jphp-core: '*'
+
+config:
+  ignore:
+    - /sandbox/**
+    - /.idea/**
+    - /*.iml
+    - /.git/**
+    - /package.hub.yml
+    - /.gitignore
+    - /LICENSE
+    - /README.md
