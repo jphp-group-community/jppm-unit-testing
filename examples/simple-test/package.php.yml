@@ -1,0 +1,10 @@
+name: simple-test
+version: 1.0.0
+deps:
+  jphp-core: '*'
+  jphp-zend-ext: '*'
+devDeps:
+  unit-testing: '1.0.0'
+
+sources:
+- src

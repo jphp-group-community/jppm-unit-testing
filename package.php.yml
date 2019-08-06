@@ -22,3 +22,4 @@ config:
     - /.gitignore
     - /LICENSE
     - /README.md
+    - /examples/**
